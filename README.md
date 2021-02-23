@@ -7,7 +7,7 @@ Get-Command
 
 
 ```
-##　Get-ExecutionPolicy
+## Get-ExecutionPolicy
 ```
 
 Restricted ：關閉腳本檔的執行功能，這是預設的設定值。
